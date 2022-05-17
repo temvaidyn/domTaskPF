@@ -17,7 +17,7 @@ function CalculateMagic(a, b) {
         number - number + 9;
     }
 
-    number = number * number; 
+    number = number ** 2;
     // or number = number ** 2;
 
     let G = number / 3;
